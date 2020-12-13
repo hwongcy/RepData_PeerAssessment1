@@ -1,4 +1,4 @@
-# plot1.R
+# PA1_template.R: Source code of PA1_template.Rmd
 
 # download and unzip the data file
 
